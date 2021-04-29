@@ -6,7 +6,7 @@ for(int [] row:array)
 System.out.println(Arrays.toString(row));
 System.out.println();
 System.out.println("New Array");
-Unit8_1a test = new Unit8_1a();
+Unit8_1b test = new Unit8_1b();
 for(int [] row: test.modifyRows(array))
 System.out.println(Arrays.toString(row));
 
